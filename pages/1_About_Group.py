@@ -4,9 +4,9 @@ st.title("About the Group")
 st.write("This page provides information about the group members.")
 
 group_members = [
-    {"Name": "Alice", "Role": "Leader", "Email": "alice@example.com"},
-    {"Name": "Bob", "Role": "Developer", "Email": "bob@example.com"},
-    {"Name": "Charlie", "Role": "Tester", "Email": "charlie@example.com"},
+    {"Name": "Ruddi Sutomi", "Role": "Manager", "Email": "ruddi.sutomi@michelin.com"},
+    {"Name": "Sandi Resta", "Role": "Team Leader", "Email": "sandi.resta@michelin.com"},
+    {"Name": "Raden Asep Ahmad Fadillah", "Role": "BU Leader", "Email": "raden.fadillah@michelin.com"},
 ]
 
 for member in group_members:
